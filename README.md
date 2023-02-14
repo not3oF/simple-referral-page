@@ -8,4 +8,4 @@ If you have some stuff to improve please fork & create a pull request and I will
 
 # If this website helped you maybe use my referral code on fanatical to buy something?
 
-[https://www.fanatical.com?ref=3of](Fanatical with my Referral)
+[https://www.fanatical.com?ref=3of] (Fanatical with my Referral)
